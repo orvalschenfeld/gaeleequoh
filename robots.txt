@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iechaixoh.alfakini.com/sitemap.xml
